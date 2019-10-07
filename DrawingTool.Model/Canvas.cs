@@ -1,4 +1,4 @@
-﻿namespace DrawingTool.Model.Model
+﻿namespace DrawingTool.Model
 {
     public class Canvas
     {

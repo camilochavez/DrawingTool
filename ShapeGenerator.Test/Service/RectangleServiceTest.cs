@@ -1,4 +1,4 @@
-﻿using DrawingTool.Model.Model;
+﻿using DrawingTool.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using ShapeGenerator.Interface;

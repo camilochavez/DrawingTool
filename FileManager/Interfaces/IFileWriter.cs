@@ -1,4 +1,4 @@
-﻿using DrawingTool.Model.Model;
+﻿using DrawingTool.Model;
 
 namespace FileManager.Interfaces
 {

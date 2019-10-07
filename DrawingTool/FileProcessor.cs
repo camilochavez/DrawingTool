@@ -1,4 +1,4 @@
-﻿using DrawingTool.Model.Model;
+﻿using DrawingTool.Model;
 using FileManager.Interfaces;
 using ShapeGenerator.Interface;
 using System;
