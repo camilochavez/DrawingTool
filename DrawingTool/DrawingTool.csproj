@@ -60,6 +60,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DrawingTool.Model\DrawingTool.Model.csproj">
+      <Project>{B59304B2-6657-4086-A957-B027E79EE841}</Project>
+      <Name>DrawingTool.Model</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FileManager\FileManager.csproj">
       <Project>{981494CD-0856-4AAA-976A-0F9C979114F1}</Project>
       <Name>FileManager</Name>

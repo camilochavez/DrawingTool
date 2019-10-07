@@ -49,6 +49,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\DrawingTool.Model\DrawingTool.Model.csproj">
+      <Project>{B59304B2-6657-4086-A957-B027E79EE841}</Project>
+      <Name>DrawingTool.Model</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ShapeGenerator\ShapeGenerator.csproj">
       <Project>{3CDD0738-FE82-4E82-BB94-B2D5D48D55C7}</Project>
       <Name>ShapeGenerator</Name>

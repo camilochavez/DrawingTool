@@ -1,4 +1,4 @@
-﻿namespace ShapeGenerator.Model
+﻿namespace DrawingTool.Model.Model
 {
     public class Line : Shape
     {
@@ -11,6 +11,6 @@
         {
 
         }
-        
+
     }
 }

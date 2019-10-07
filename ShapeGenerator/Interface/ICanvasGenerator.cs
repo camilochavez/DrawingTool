@@ -1,4 +1,4 @@
-﻿using ShapeGenerator.Model;
+﻿using DrawingTool.Model.Model;
 
 namespace ShapeGenerator.Interface
 {

@@ -1,8 +1,8 @@
-﻿using FileManager.Interfaces;
+﻿using DrawingTool.Model.Model;
+using FileManager.Interfaces;
 using FileManager.Services;
 using Microsoft.Extensions.DependencyInjection;
 using ShapeGenerator.Interface;
-using ShapeGenerator.Model;
 using ShapeGenerator.Service;
 
 namespace DrawingTool

@@ -1,5 +1,5 @@
-﻿using FileManager.Interfaces;
-using ShapeGenerator.Model;
+﻿using DrawingTool.Model.Model;
+using FileManager.Interfaces;
 using System.Text;
 
 namespace FileManager.Services

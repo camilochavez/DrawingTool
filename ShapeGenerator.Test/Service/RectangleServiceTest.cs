@@ -1,7 +1,7 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using DrawingTool.Model.Model;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using ShapeGenerator.Interface;
-using ShapeGenerator.Model;
 using ShapeGenerator.Service;
 
 namespace ShapeGenerator.Test.Service

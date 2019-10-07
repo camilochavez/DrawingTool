@@ -1,5 +1,5 @@
-﻿using ShapeGenerator.Interface;
-using ShapeGenerator.Model;
+﻿using DrawingTool.Model.Model;
+using ShapeGenerator.Interface;
 
 namespace ShapeGenerator.Service
 {
